@@ -9,8 +9,10 @@ The JsPlatform library allows you to get the current user agent on your device.
 // create a JsPlatform new instance
 const Platform = new JsPlatform();
 
-//get the current user agent
-console.log("Hello, I'm a " + Platform.OS + " device!");  // Print: "Hello, I'm a ios/android/desktop device!"
+// Get the current user agent
+
+// Print: "Hello, I'm a ios/android/desktop device!"
+console.log("Hello, I'm a " + Platform.OS + " device!");  
 ```
 
 ## Installation
