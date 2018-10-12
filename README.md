@@ -2,7 +2,7 @@
 # js-platform
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/js-platform.svg)](https://greenkeeper.io/)
 
-JsPlatform is an utility that allows you to get the current user agent of your device.
+The JsPlatform library allows you to get the current user agent on your device.
 
 ## Usage
 ```javascript
@@ -10,7 +10,7 @@ JsPlatform is an utility that allows you to get the current user agent of your d
 const Platform = new JsPlatform();
 
 //get the current user agent
-console.log("Hello, I'm a " + Platform.OS + " device!");
+console.log("Hello, I'm a " + Platform.OS + " device!");  // Print: "Hello, I'm a ios/android/desktop device!"
 ```
 
 ## Installation
