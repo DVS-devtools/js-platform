@@ -2,16 +2,11 @@
  * @class JsPlatform
  * @description Description of your library
  */
-import init from './init';
-import log from './log';
+import { Platform } from './platform';
 
 export default {
     /**
-     * @see modules/init
+     * @see modules/OS
      */
-    init,
-    /**
-     * @see modules/log
-     */
-    log
+    OS: new Platform(),
 };
