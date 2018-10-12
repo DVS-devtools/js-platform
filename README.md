@@ -6,6 +6,8 @@ The JsPlatform library allows you to get the current user agent on your device.
 
 ## Usage
 ```javascript
+import { JsPlatform } from 'JsPlatform';
+
 // create a JsPlatform new instance
 const Platform = new JsPlatform();
 
