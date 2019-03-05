@@ -1,5 +1,7 @@
 # js-platform
 
+## [!!!] The source code of this package is on [https://github.com/docomodigital/js-utils](https://github.com/docomodigital/js-utils), this repository will be removed asap
+
 [![Build Status](https://travis-ci.com/docomodigital/js-platform.svg?branch=master)](https://travis-ci.com/docomodigital/js-platform)
 [![Coverage Status](https://coveralls.io/repos/github/docomodigital/js-platform/badge.svg?branch=master)](https://coveralls.io/github/docomodigital/js-platform?branch=master)
 [![npm version](https://badge.fury.io/js/%40docomodigital%2Fjs-platform.svg)](https://badge.fury.io/js/%40docomodigital%2Fjs-platform)
